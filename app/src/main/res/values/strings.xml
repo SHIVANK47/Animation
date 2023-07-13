@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="bhatii">BHATii</string>
+    <string name="translate">translate</string>
+    <string name="scale">Scale</string>
+    <string name="rotate">Rotate</string>
+</resources>
